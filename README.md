@@ -44,5 +44,5 @@ Go to your project directory from terminal and hit following commands
 
 # Testing URL : 
       https://todomvc.com/examples/vue/
-
-Tests Covered : 
+      
+      
