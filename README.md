@@ -10,16 +10,17 @@ Framework Architecture
             |
             |_src/main/java
             |_src/main/resources
+            |	|_toDoList.feature
+            |	|...
             |_src/test/java
             |	|_testRunners
             |	|	|_runner.java
             |	|	|...
-            |	|_StepDefinitions
+            |	|_stepDefinitions
             |	|	|_toDOListSteps.java
             |	|	|...
-            |_Feature
-            |	|_ToDOList.feature
-            |	|...
+            |_drivers
+            |	|_chromedriver
 
 Please find below the Folder Structure maintained :
 
